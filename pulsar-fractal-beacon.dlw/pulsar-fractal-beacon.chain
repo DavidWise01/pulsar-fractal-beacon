@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1128
+slug  : pulsar-fractal-beacon
+seal  : 80ff948a4167663085b59c1922d764384a6ac73cfd2965a68c31f2a453d33574
+prev  : 8dcf25b440fd10d229f946f33269f43df6cd7f67dabf066e9e1073aa5a9ece06
+link  : b18819dcd832f09497fd83609b9cd70bf18ecb1e02535441b313961789d16e19
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
